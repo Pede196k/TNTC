@@ -1,15 +1,15 @@
 # Please follow the format!
 **Brief description of the issue**
 
-*Respond here*
+Game Crash
 
 **Is this replicable? If so, how**
 
-*Respond here*
+it happens every time its going to load Resources...
 
 **Screenshot(s) if applicable:**
 
-*Respond here*
+
 
 **Is the issue occurring on Single Player or on a Server?**
 
